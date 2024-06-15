@@ -24,3 +24,8 @@ if __name__ == '__main__':
 
 
 begining test git
+
+i am making version 1.1 now. let say this is version 1.1
+
+
+i am making some changes before releasing v1.2
